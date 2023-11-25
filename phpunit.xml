@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<phpunit colors="true">
+    <!-- Thư mục chứa các test cases -->
+    <testsuites>
+        <testsuite name="MyTestSuiteTest">
+            <directory>./tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
